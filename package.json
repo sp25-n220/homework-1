@@ -1,6 +1,6 @@
 {
   "name": "create-simple-frontend-struct",
-  "version": "1.0.1",
+  "version": "1.1.0",
   "main": "index.js",
   "bin": {
     "create-simple-frontend-struct": "./index.js"
