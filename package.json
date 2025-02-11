@@ -1,0 +1,19 @@
+{
+  "name": "create-simple-frontend-struct",
+  "version": "1.0.0",
+  "main": "index.js",
+  "bin": {
+    "create-simple-frontend-struct": "./index.js"
+  },
+  "scripts": {
+      "start": "node index.js"
+  },
+  "files": [
+    "index.js",
+    "README.md"
+  ],
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
